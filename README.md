@@ -1,6 +1,6 @@
 ## 🛠️ Tech Stack
 ### **Frontend**
-- **Framework:** Angular 18
+- **Framework:** Angular 19
 - **Language:** TypeScript
 - **Styling:** CSS3 with animations
 - **HTTP Client:** Angular HttpClient
