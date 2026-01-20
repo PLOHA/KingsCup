@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\models\\gamecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\models\\gamecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\migrations\\20260118214455_addgamecards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\migrations\\20260118214455_addgamecards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\migrations\\20260118142826_updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\migrations\\20260118142826_updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\models\\roomplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\models\\roomplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\migrations\\20260118090201_addrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\migrations\\20260118090201_addrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|c:\\users\\sutth\\onedrive\\desktop\\learning forever\\kingscup\\kingscup.api\\migrations\\20260118080751_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50B286-D516-67D1-100E-39F1428E273E}|KingsCup.API\\KingsCup.API.csproj|solutionrelative:kingscup.api\\migrations\\20260118080751_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameCard.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Models\\GameCard.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Models\\GameCard.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Models\\GameCard.cs",
+              "RelativeToolTip": "KingsCup.API\\Models\\GameCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T21:41:38.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "KingsCup.API\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAYwMcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:12:52.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "KingsCup.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:10:49.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KingsCup.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T07:57:13.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Models\\User.cs",
+              "RelativeToolTip": "KingsCup.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T07:46:32.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Program.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Program.cs",
+              "RelativeToolTip": "KingsCup.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T07:44:05.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260118214455_AddGameCards.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Migrations\\20260118214455_AddGameCards.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Migrations\\20260118214455_AddGameCards.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Migrations\\20260118214455_AddGameCards.cs",
+              "RelativeToolTip": "KingsCup.API\\Migrations\\20260118214455_AddGameCards.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T21:44:55.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Models\\Room.cs",
+              "RelativeToolTip": "KingsCup.API\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:51:30.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\appsettings.json",
+              "RelativeDocumentMoniker": "KingsCup.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\appsettings.json",
+              "RelativeToolTip": "KingsCup.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T07:52:23.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260118142826_Updatedata.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Migrations\\20260118142826_Updatedata.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Migrations\\20260118142826_Updatedata.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Migrations\\20260118142826_Updatedata.cs",
+              "RelativeToolTip": "KingsCup.API\\Migrations\\20260118142826_Updatedata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:28:26.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Models\\RoomPlayer.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Models\\RoomPlayer.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Models\\RoomPlayer.cs",
+              "RelativeToolTip": "KingsCup.API\\Models\\RoomPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:56:54.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260118090201_AddRooms.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Migrations\\20260118090201_AddRooms.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Migrations\\20260118090201_AddRooms.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Migrations\\20260118090201_AddRooms.cs",
+              "RelativeToolTip": "KingsCup.API\\Migrations\\20260118090201_AddRooms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T09:02:01.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260118080751_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Migrations\\20260118080751_InitialCreate.cs",
+              "RelativeDocumentMoniker": "KingsCup.API\\Migrations\\20260118080751_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sutth\\OneDrive\\Desktop\\Learning Forever\\KingsCup\\KingsCup.API\\Migrations\\20260118080751_InitialCreate.cs",
+              "RelativeToolTip": "KingsCup.API\\Migrations\\20260118080751_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:07:51.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
