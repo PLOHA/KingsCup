@@ -10,7 +10,7 @@
 - **Language:** C#
 - **Database:** SQL Server
 - **ORM:** Entity Framework Core
-- **Real-time:** SignalR
+- **Real-time:** Polling (ตอนนี้มีผู้เล่นไม่เกิน 10 คน)
 ### **DevOps**
 - **Tunnel:** Cloudflare Tunnel
 - **Version Control:** Git
@@ -49,3 +49,4 @@ KingsCup/
 - [ ] 📱 Progressive Web App (PWA)
 - [ ] 🎥 Video chat integration
 - [ ] 🏆 Achievements system
+- [ ] SignalR replaces Polling 
